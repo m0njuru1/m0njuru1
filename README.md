@@ -29,8 +29,8 @@ _**I'm just an ordinary person who didn't think about any technical things a yea
 
 
 ## My profiles & Contacts
-* ♻ _**[Hackerone](https://hackerone.com/e1ectro-h4x)**_
-* ♻ _**[BugCrowd](https://bugcrowd.com/E1ectro_H4x)**_
+* ♻ _**[Hackerone](https://hackerone.com/m0njurul_)**_
+* ♻ _**[BugCrowd](https://bugcrowd.com/m0njurul_)**_
 * ♻ _**[Linkedin](https://www.linkedin.com/in/m0njurul/)**_
 * ♻ _**[YouTube](https://www.youtube.com/channel/UCh6TSQsYfoXlzpcqdnBq1-g)**_
-* ♻ _**[Twitter](https://twitter.com/E1ectro_H4x)**_
+* ♻ _**[Twitter](https://twitter.com/m0njurul_)**_
