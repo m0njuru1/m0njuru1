@@ -1,6 +1,6 @@
 ## _Whoami_
 _**Assalamu Alaikum, <br>
-I am m0njurul a 17 year old boy who study in Computer Science & do bug bounty hunting.**_
+I am m0njurul a 17 year old boy who study in Computer Science & do bug bounty hunting. Trying to be a CTF crasher "Noob".**_
 
 
 ## _Hobbies_
@@ -15,6 +15,7 @@ _**I'm just an ordinary person who didn't think about any technical things a yea
 
 
 ## _Learning_
+* _**📚 CTF Player.**_
 * _**📚 Bug Bounty.**_
 * _**📚 Programming.**_
 * _**📚 Computer Science.**_
