@@ -1,6 +1,6 @@
 ## _Whoami_
 _**Assalamu Alaikum, <br>
-I am m0njurul a 17 year old boy who study in Computer Science & do bug bounty hunting. Trying to be a CTF crasher "Noob".**_
+I am Md. Monjurul Ahshan Rahat. Family, Friends call me Rahat, in working sector i known as m0njurul. I do Bug Bounty Hunting and occasionally I participate in CTF / Cyber drill competitions.**_
 
 
 ## _Hobbies_
@@ -11,7 +11,7 @@ I am m0njurul a 17 year old boy who study in Computer Science & do bug bounty hu
   
 
 ## _Personal Information_
-_**I'm just an ordinary person who didn't think about any technical things a year ago but now he is a IT person, I An independent Cyber security Researcher Form Bangladesh. I am in this field Form 2020 & Identified Major Security vulnerabilities in some companies.**_
+_**I am a student of Computer Engineering. I grew up in a Muslim family. I started my career when I was in 8th grade. I've loved technology and internet things since I was a kid. So I started my career with technology and internet as a Cyber Security Researcher. I have been doing Bug Bounty Hunting / Cyber Security Research for three years. I want to be a Cyber Security expert in the future.**_
 
 
 ## _Learning_
